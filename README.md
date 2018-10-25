@@ -1,5 +1,5 @@
 # AWS Serverless APIs and Apps - A Complete Introduction
-This is the code repository for [AWS Serverless APIs and Apps - A Complete Introduction](https://www.packtpub.com/application-development/complete-machine-learning-course-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789953725), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for AWS Serverless APIs and Apps - A Complete Introduction, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 This course will introduce you to serverless computing and then quickly dive into how to build serverless apps with Amazon Web Services (AWS).
 Specifically, you will learn:
@@ -25,9 +25,7 @@ What else you can build with the services covered in this course and which other
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 Anyone who's interested in focusing on the core business logic instead of the infrastructure needed to run an API and/ or SPA. Anyone who wants to use modern techniques to create highly scalable and extremely cost-efficient web apps. Anyone who works with APIs and/ or SPAs on a regular basis and wants to learn how to create flexible and cost-effective web apps. Every developer who loves the "Dev" in "DevOps" but would be happy to make the "Ops" part easier.
-### Technical Requirements
-This course has the following software requirements:<br/>
-              
+
 
 ## Related Products
 * [AWS Application Architecture and Management [Video]](https://www.packtpub.com/application-development/complete-machine-learning-course-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789953725)
